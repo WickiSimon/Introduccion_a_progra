@@ -1,0 +1,13 @@
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\obj\Debug\netcoreapp3.1\menor_mayor.csprojAssemblyReference.cache
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\obj\Debug\netcoreapp3.1\menor_mayor.AssemblyInfoInputs.cache
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\obj\Debug\netcoreapp3.1\menor_mayor.AssemblyInfo.cs
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\obj\Debug\netcoreapp3.1\menor_mayor.csproj.CoreCompileInputs.cache
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\bin\Debug\netcoreapp3.1\menor_mayor.exe
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\bin\Debug\netcoreapp3.1\menor_mayor.deps.json
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\bin\Debug\netcoreapp3.1\menor_mayor.runtimeconfig.json
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\bin\Debug\netcoreapp3.1\menor_mayor.runtimeconfig.dev.json
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\bin\Debug\netcoreapp3.1\menor_mayor.dll
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\bin\Debug\netcoreapp3.1\menor_mayor.pdb
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\obj\Debug\netcoreapp3.1\menor_mayor.dll
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\obj\Debug\netcoreapp3.1\menor_mayor.pdb
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\menor_mayor\obj\Debug\netcoreapp3.1\menor_mayor.genruntimeconfig.cache

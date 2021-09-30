@@ -1,0 +1,13 @@
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.exe
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.deps.json
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.runtimeconfig.json
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.runtimeconfig.dev.json
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.dll
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\bin\Debug\netcoreapp3.1\CuentaRegresivaFor.pdb
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.csprojAssemblyReference.cache
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.AssemblyInfoInputs.cache
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.AssemblyInfo.cs
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.csproj.CoreCompileInputs.cache
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.dll
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.pdb
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\CuentaRegresivaFor\obj\Debug\netcoreapp3.1\CuentaRegresivaFor.genruntimeconfig.cache
