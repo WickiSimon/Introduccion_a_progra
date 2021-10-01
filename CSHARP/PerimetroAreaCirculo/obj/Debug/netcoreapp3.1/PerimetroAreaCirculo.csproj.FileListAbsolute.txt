@@ -1,0 +1,13 @@
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.csprojAssemblyReference.cache
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.AssemblyInfoInputs.cache
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.AssemblyInfo.cs
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.exe
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.deps.json
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.runtimeconfig.json
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.runtimeconfig.dev.json
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.dll
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\bin\Debug\netcoreapp3.1\PerimetroAreaCirculo.pdb
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.dll
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.pdb
+C:\Users\56950\Desktop\Introduccion a progra\CSHARP\PerimetroAreaCirculo\obj\Debug\netcoreapp3.1\PerimetroAreaCirculo.genruntimeconfig.cache
